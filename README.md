@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joana</h1>
+<h1 align="center">Hi 👋 I'm Joana</h1>
 <h3 align="center">A Software Engineer based in 📍Valencia, Spain.</h3>
 
 - 🔭 I’m currently working on **a project for the port of Valencia and a website for a photography studio**
