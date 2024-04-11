@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Joana</h1>
 <h3 align="center">A Software Engineer based in 📍Valencia, Spain.</h3>
 
-- 🔭 I’m currently working on **a project for the port of Valencia and a website for a photography studio**
+- 🔭 I’m currently working on **a project for the port of Valencia and a multiple websites for DJs**
 
 - 🌱 I’m currently learning **UX/UI, Next.js and Payload**
 
 - 👯 I’m looking to collaborate on **UX/UI focused projects**
+  
+- ⚡ Fun fact **I'm a developer during the day and a DJ by night**
 
-- 📫 How to reach me **castellovisiedo@gmail.com**
-
-- ⚡ Fun fact **I'm a developer during the day, a DJ by night**
+- 📫 You can email me **castellovisiedo@gmail.com** or reach through the section below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
