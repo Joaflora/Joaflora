@@ -9,7 +9,7 @@
   
 - ⚡ Fun fact **I'm a developer during the day and a DJ by night**
 
-- 📫 You can email me **castellovisiedo@gmail.com** or reach through the section below
+- 📫 You can email me **castellovisiedo@gmail.com** or reach me on my social media profiles below ⬇️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
