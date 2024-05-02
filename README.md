@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Joana</h1>
 <h3 align="center">A Software Engineer based in 📍Valencia, Spain.</h3>
 
-- 🔭 I’m currently working on **a project for the port of Valencia and a multiple websites for DJs**
+- 🔭 I’m currently working on **a management software for the port of Valencia and growing my website design portfolio**
 
 - 🌱 I’m currently learning **UX/UI, Next.js and Payload**
 
